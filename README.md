@@ -1,2 +1,2 @@
 # SurveyApp
-A survey got generating questions and collecting data
+A survey app for generating questions and collecting data
